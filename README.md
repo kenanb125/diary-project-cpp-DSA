@@ -18,4 +18,4 @@ Project Structure
 -main.cpp: The entry point of the application, handling the main menu loop and user interactions.
 Getting Started:
 Ensure you have a C++ compiler (like G++).Create a folder named entries in the same directory as the executable to store entry files.Compile and run the program.
-License: This project was developed as a university assignment (Data Structures and Algorithms)
+
